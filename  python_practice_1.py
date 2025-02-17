@@ -1,0 +1,1 @@
+print("Ivan Lifientsiev, AI-2025")
